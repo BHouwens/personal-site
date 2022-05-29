@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about-me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a designer / engineer who focuses on how tech can help change the world. On this site you'll find my thoughts on blockchain, machine learning, UX and product design, self-sufficient living and anything else that sparks interest.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm currently working as the Head of Engineering for the blockchain startup, [Zenotta](https://zenotta.com).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Originally from 🇿🇦, now living in 🇨🇭
 
+--
 
-[jekyll-organization]: https://github.com/jekyll
+If you'd like to get in contact for consulting, business opportunities or just to say hi, you can reach me here: [byron.houwens@gmail.com](mailto:byron.houwens@gmail.com).
