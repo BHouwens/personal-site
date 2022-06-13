@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why we need Blockhain Trades without Smart Contracts"
-date:   2022-04-28 20:12:56 +0200
+date:   2022-06-28 20:12:56 +0200
 categories: blockchain
 ---
 
