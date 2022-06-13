@@ -21,7 +21,7 @@ You close your editor and are about to do the same to the lid of your laptop whe
 
 The contract that’s worth more than your annual salary.
 
-![Steve Harvey - Oh Snap](assets/images/harvey-oh-snap.gif)
+![Steve Harvey - Oh Snap](/personal-site/assets/images/harvey-oh-snap.gif)
 
 The desire for sleep drains from your body. It’s quickly replaced by an adrenaline that will only be used when you prowl the job boards for your saviour from all this madness. Crypto is for the birds. The phone will have to berate you a few hours more.
 
@@ -39,7 +39,7 @@ But there is another way, one which allows you to make simple, atomic trades of 
 
 Traditional UTXO model blockchains are super simple. Here’s a picture of Alice paying Bob some good ol’ fashioned Bitcoin, as seen by the Bitcoin UTXO:
 
-![Alice to Bob Token Transfer](assets/images/alice-to-bob.jpeg)
+![Alice to Bob Token Transfer](/personal-site/assets/images/alice-to-bob.jpeg)
 
 There are no pesky, buggy smart contracts to worry about here because this transaction is atomic, which means it’s executed on the blockchain in a single step. Boom. Done.
 
@@ -47,7 +47,7 @@ The problem with this picture is that it looks like Alice is just incredibly kin
 
 Ideally, what we really want is something like this:
 
-![Alice to Bob Token Transfer, Bob to Alice Asset Transfer](assets/images/alice-to-bob-to-alice.jpeg)
+![Alice to Bob Token Transfer, Bob to Alice Asset Transfer](/personal-site/assets/images/alice-to-bob-to-alice.jpeg)
 
 In this picture we can see that Alice traded with Bob for an asset (which could be a different token type, a data asset or a digital representation of her pizza order) as one step, and that the transaction happened atomically. By keeping the trade asset generic we also ensure that there’s no need for a smart contract; anything can be traded for Alice’s tokens.
 
@@ -75,7 +75,7 @@ With the DRUID attached to their transactions and attested to by Charlie, no one
 
 The process for an atomic trade therefore looks like this:
 
-![DRUID Charlie](assets/images/druid-charlie.png)
+![DRUID Charlie](/personal-site/assets/images/druid-charlie.png)
 
 No more complicated smart contracts, no more bugs, no more problems. Just a simple, atomic trade at the cost of a single hash.
 
