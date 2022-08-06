@@ -23,7 +23,7 @@ email: byron.houwens@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blockchain and cryptocurrency specialist with years of design, engineering and 
   leadership experience. Learn more here
-baseurl: "/personal-site" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bhouwens.github.io/personal-site/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: byronhouwens
 github_username:  BHouwens
