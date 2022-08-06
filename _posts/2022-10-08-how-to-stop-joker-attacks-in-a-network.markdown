@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Secure your Network from Jokers"
-date:   2022-07-08 16:03:36 +0200
+date:   2022-10-08 16:03:36 +0200
 categories: cybersecurity
 ---
 
