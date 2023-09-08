@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Secure your Network from Jokers"
+title:  "The Joker: Irrational Attackers in Your System"
 date:   2022-10-08 16:03:36 +0200
 categories: cybersecurity
 ---
@@ -11,15 +11,15 @@ The rising technical difficulty of breaking into systems has meant that most mod
 
 <quote>In a world where social engineering is king, your castle has to be defended by game theory instead of drawbridges and moats</quote>
 
-The problem is that most cybersecurity operations still focus on the technical aspects when making assessments of your system. Game theory plays on the fringes of their work (a DDoS attack is nothing if not a coalition attacking a system as a social game), but it's never a core consideration. Worse still, a lot of recent attacks of various kinds seem to have no rhyme or reason, nothing for the attackers to really gain other than simply destroying a system.
+The problem is that most cybersecurity operations still focus on the technical aspects when making assessments of your system. Game theory plays on the fringes of their work (a DDoS attack is nothing if not a coalition attacking a system as a social game), but it's never a core consideration. 
 
-It's like we're starting to deal with a new class of social attacker altogether...
+But it gets worse. A social engineering attacker who is after gold is one thing, a rational foe that can be modelled in terms of their threat level and intent. We're seeing something different emerge since the early days of the Internet though; an attacker who does _not_ behave rationally, has no interest in your gold, and only seems to want to watch the world burn.
 
 --
 
 ## Enter the Joker
 
-Most people will be familiar with the kind of attacker I'm talking about. On your favourite social media channel he may be called a troll if the attacks are social and minor, giving rise to the slogan ["don't feed the troll"](https://www.urbandictionary.com/define.php?term=feeding%20the%20trolls). We instinctively understand that engaging such a character is counterproductive, whether it succeeds or not.
+I won't go into the societal or cultural reasons why I think this type of attacker is becoming more prevalant, but most people will be familiar with what I'm talking about. On your favourite social media channel he may be called a troll if the attacks are social and minor, giving rise to the slogan ["don't feed the troll"](https://www.urbandictionary.com/define.php?term=feeding%20the%20trolls). We instinctively understand that engaging such a character is counterproductive, whether it succeeds or not.
 
 ![Dark Knight Joker - Heath Ledger](/assets/images/joker-heath.jpeg)
 
